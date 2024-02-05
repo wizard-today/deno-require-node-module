@@ -1,0 +1,22 @@
+{
+  "name": "deno-require-node-module",
+  "version": "1.0.3",
+  "description": "Allows to require Node.js modules from Deno",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "keywords": [
+    "deno",
+    "node",
+    "require",
+    "interop"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizard-today/deno-require-node-module.git"
+  },
+  "author": {
+    "name": "Wizard Today",
+    "url": "https://github.com/wizard-today"
+  },
+  "license": "MIT"
+}
